@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20c5bb1f2a2d98c4d83661e48aa7dfe4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_sword: {fileID: 2119555591233089401, guid: 1fbb4412e0f13ff49a103d06bdb19559,
+      type: 3}
+  - m_club: {fileID: 3441655048956085574, guid: 803f455d4851438408c4370a1dc256d8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
